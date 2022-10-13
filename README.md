@@ -9,6 +9,6 @@ haha - >
 xd - [  
 lol - ]  
 lookatthat - .  
-hahaha - +
-hahahaha - -
-wtf - ,
+hahaha - +  
+hahahaha - -  
+wtf - ,  
